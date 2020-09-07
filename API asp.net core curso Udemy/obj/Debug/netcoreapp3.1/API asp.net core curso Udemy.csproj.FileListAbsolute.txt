@@ -1,0 +1,20 @@
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\API asp.net core curso Udemy.exe
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\API asp.net core curso Udemy.deps.json
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\API asp.net core curso Udemy.runtimeconfig.json
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\API asp.net core curso Udemy.runtimeconfig.dev.json
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\API asp.net core curso Udemy.dll
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\bin\Debug\netcoreapp3.1\API asp.net core curso Udemy.pdb
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.csprojAssemblyReference.cache
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.AssemblyInfo.cs
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.RazorTargetAssemblyInfo.cache
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\staticwebassets\API asp.net core curso Udemy.StaticWebAssets.Manifest.cache
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\staticwebassets\API asp.net core curso Udemy.StaticWebAssets.xml
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.dll
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.pdb
+C:\Users\ronal\source\repos\API asp.net core curso Udemy\API asp.net core curso Udemy\obj\Debug\netcoreapp3.1\API asp.net core curso Udemy.genruntimeconfig.cache
