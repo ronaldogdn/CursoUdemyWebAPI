@@ -12,6 +12,7 @@ namespace API_asp.net_core_curso_Udemy.Models
         public int Pontuacao { get; set; }
         public bool Ativo { get; set; }
         public DateTime Criado  { get; set; }
-        public DateTime Atualizado  { get; set; }
+        //? significa que pode ser nulo
+        public DateTime? Atualizado  { get; set; }
     }
 }

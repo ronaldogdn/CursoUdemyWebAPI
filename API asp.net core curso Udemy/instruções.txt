@@ -1,0 +1,36 @@
+banco de dados usados:
+sqlite
+pasta bd no projeto para armazenar
+EntityFramework 3.1.7
+EntityFramework sqlite 3.1.7 não suporta chave estrangeira
+EntityFramework tools 3.1.7
+LinqPad drive para sqlite
+
+
+
+
+
+INSTRUÇÕE SOBRE O EF
+----console-------------------
+1 - instala o EF Core no projeto
+	Install-Package Microsoft.EntityFramework.SqlServer -Version:2.1.11
+
+2 - Criar as classes de modelo
+
+
+
+3 - Classe de contexto
+	-Herdar do DbContext
+	-Criar o Construtor
+	-Criar os DbSet de cada classe de modelo
+
+4 - Configurar o serviço/injeção de dependência do banco de dados na classe startup.cs
+
+5 - Criar a string de conexão no arquivo appsettings.json
+
+6 - não é necessário o Enable-Migration
+7 - Adiciona a migration
+	- Add-Migration NomeMigracao
+ - Atualiza o banco
+	- Update-Database -verbose
+Add-Migration NomeMigracao;Update-Database -verbose
